@@ -1,3 +1,12 @@
+
+
+body {
+  height: 100%;
+  background-image: url("/assets/flooryellow.jpg");
+  background-size: cover;
+
+  color: #000; text-shadow: 1px 1px 0 #fff;
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
