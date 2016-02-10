@@ -1,2 +1,1 @@
-This is a portfolio website I built to display my web development projects and
- creative writing.
+This is a portfolio website I built to display my web development projects and creative writing.
