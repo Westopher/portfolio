@@ -1,0 +1,43 @@
+/* line 7, /Users/westkraemer/Desktop/Projects/westproject/app/assets/stylesheets/static_pages.scss */
+#whiteboard {
+  width: 225px;
+  height: 200px;
+}
+
+/* line 12, /Users/westkraemer/Desktop/Projects/westproject/app/assets/stylesheets/static_pages.scss */
+#typewriter {
+  width: 225px;
+  height: 200px;
+}
+
+/* line 17, /Users/westkraemer/Desktop/Projects/westproject/app/assets/stylesheets/static_pages.scss */
+#kraemer {
+  width: 225px;
+  height: 200px;
+}
+
+/* line 23, /Users/westkraemer/Desktop/Projects/westproject/app/assets/stylesheets/static_pages.scss */
+body {
+  background-image: url("floorwhite.jpg");
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
