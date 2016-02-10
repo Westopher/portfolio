@@ -1,29 +1,27 @@
 // Place all the styles related to the StaticPages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
-body {
-  height: 100%;
-  background-image: url("/assets/floorwhite.jpg");
-  background-size: cover;
-  color: #000; text-shadow: 1px 1px 0 #fff;
-}
+
+
 // HOME PAGE STYLING
-#Title {
-    background-color: yellow;
+#whiteboard {
+  width: 225px;
+  height: 200px;
 }
 
-#Message {
-    background-color: yellow;
+#typewriter {
+  width: 225px;
+  height: 200px;
 }
 
-#Webdev {
-    background-color: yellow;
+#kraemer {
+  width: 225px;
+  height: 200px;
 }
 
-#Writing {
-    background-color: yellow;
-}
-
-#About {
-    background-color: yellow;
+// background image
+body {
+    background-image: url("floorwhite.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
