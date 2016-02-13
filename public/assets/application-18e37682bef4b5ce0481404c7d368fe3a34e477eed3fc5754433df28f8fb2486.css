@@ -1,0 +1,58 @@
+
+/*Navigation Header*/
+
+li {
+   display: inline;
+}
+
+/*Home Page Styling*/
+
+#whiteboard {
+  width: 230px;
+  height: 200px;
+}
+
+#typewriter {
+  width: 230px;
+  height: 200px;
+}
+
+#kraemer {
+  width: 230px;
+  height: 200px;
+}
+
+body {
+    background-image: url("floorwhite.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.Content {
+  background-color: blue;
+  display: flex;
+  justify-content: space-between;
+  background-image: url("train.jpg");
+    width:100%;
+    height:100%;
+}
+
+
+
+
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
