@@ -29,12 +29,9 @@ body {
 }
 
 .Content {
-  background-color: blue;
   display: flex;
   justify-content: space-between;
-  background-image: url("train.jpg");
-    width:100%;
-    height:100%;
+  background-image: url("whiteboard.jpg");
 }
 
 
