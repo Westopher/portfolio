@@ -1,8 +1,39 @@
 
 /*Navigation Header*/
 li {
-   display: inline;;
+   display: inline;
 }
+
+/*Home Page Styling*/
+
+#whiteboard {
+  width: 230px;
+  height: 200px;
+}
+
+#typewriter {
+  width: 230px;
+  height: 200px;
+}
+
+#kraemer {
+  width: 230px;
+  height: 200px;
+}
+
+body {
+    background-image: url("floorwhite.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.Content {
+  background-color: blue;
+  display: flex;
+  justify-content: space-between;
+}
+
 
 
 
